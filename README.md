@@ -1,0 +1,2 @@
+# Electrically-tunable-benchtop-microscope-integrating-TIE-based-phase-imaging-and-edge-AI-analysis
+Optical microscopy is a pivotal technique for biomedical discovery, yet many high-performance instruments remain bulky and poorly suited for live-cell imaging and on-site computational analysis. This limits their accessibility and practical use in experiments requiring quantitative assessment of cellular dynamics.
